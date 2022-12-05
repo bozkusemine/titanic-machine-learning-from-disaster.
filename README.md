@@ -16,12 +16,20 @@ Problem description: To frame the ML problem elegantly is very much important be
 
 **Describing the data**
 
-*pclass: Ticket class
-*sex: Sex
-*Age: Age in years
-*sibsp: # of siblings / spouses aboard the Titanic
-*parch: # of parents / children aboard the Titanic
-*ticket: Ticket number
-*fare: Passenger fare
-*cabin: Cabin number
-*embarked: Port of embarkation
+*pclass: Ticket class*
+
+*sex: Sex*
+
+*Age: Age in years*
+
+*sibsp: # of siblings / spouses aboard the Titanic*
+
+*parch: # of parents / children aboard the Titanic*
+
+*ticket: Ticket number*
+
+*fare: Passenger fare*
+
+*cabin: Cabin number*
+
+*embarked: Port of embarkation*
